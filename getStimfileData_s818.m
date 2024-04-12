@@ -37,4 +37,4 @@ total.faster(4,:) = faster{4};
 
 keyboard
 
-save('~/Documents/MATLAB/nepr207_teaching/s817_behavior.mat','total')
+save('~/Documents/MATLAB/nepr207_teaching/s818_behavior.mat','total')

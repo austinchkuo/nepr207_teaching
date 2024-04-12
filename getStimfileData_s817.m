@@ -23,5 +23,5 @@ for i = 1:length(stimfiles)
     total.subjectResponse = [total.subjectResponse response];
 
 end
-
+keyboard
 save('~/Documents/MATLAB/nepr207_teaching/s817_behavior.mat','total')
